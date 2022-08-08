@@ -15,7 +15,7 @@
     * Tipo de Cuenta (urgente)
     * Número de cuenta (urgente)
 
-(Paso1_a.png)
+![aqui](Paso1_a.png)
 
 2. Confirmar 
 
