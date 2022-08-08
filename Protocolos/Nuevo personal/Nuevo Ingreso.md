@@ -34,4 +34,5 @@
     * CURP
     * NSS
 
-    ![imagen](Paso3_a.png)
+    ![imagen](Paso4_a.png)
+    ![imagen](Paso4_b.png)
